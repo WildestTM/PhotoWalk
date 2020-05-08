@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoWalk</string>
+    <string name="image_ratio">h,4:3</string>
+</resources>
